@@ -1,24 +1,94 @@
+* {
+    box-sizing: border-box;
+    font-family: ’Lato’, sans-serif;
+    margin: 0; 
+    padding: 0;
+}
 body {
-  background-image: url("https://www.fondos12.com/data/big/2/26__wallpaper_480x300.jpg");
+  background-image: url("https://fondosmil.com/fondo/25327.jpg");
   background-size: cover;
   background-repeat:no-repeat;
   background-position: center center;
-  margin:20px;
-  padding:0;
-  height:100%;
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-img {
+
+a:link, a:visited, a:active {
+    color: #000;
+	  text-decoration: none;
+}
+a:hover {
+ opacity:0.8;
+ filter:alpha(opacity=50); /* For IE8 and earlier */
+}
+
+
+div{
+	text-align:center;
+}
+
+aside{
+margin-top: 10px;
+font-size: 30px;
+}
+#logo{
+	width: 300px;
+	height: 100px;
+	position: absolute;
+	opacity:0.8;
+ filter:alpha(opacity=60);
+ margin-top: 20px;
+ margin-left: 20px;
+ opacity:0.4;
+ filter:alpha(opacity=40);
+}
+
+#logo:hover {
+ opacity:1.0;
+ filter:alpha(opacity=100);
+}
+
+#foto {
+	margin-top: 20px;
 	width: 400px;
 	height: 400px;
 	border-radius:200px;
 	border: 1px;
 	border:3px solid #666;
-}
 
-aside {
-	
 }
-
 footer {
+    color: #bbb;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer {
+    padding: 0.9375rem 1.875rem;
+    background-color: #333;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    opacity:0.9;
+    filter:alpha(opacity=10);
+}
+.footer-lista {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-lista li {
+    margin: 1px 1px;
+}
+.footer-lista li:nth-last-child(2) {
+    flex: 1;
 }

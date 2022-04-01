@@ -1,5 +1,5 @@
 {
-  "students": [
+  "posts": [
     {
       "id": 1,
       "code": "05372",
@@ -12,7 +12,7 @@
       "code": "1152563",
       "name": "Jairo Jaramillo",
       "program": "Ingenieria de Sistemas",
-      "email": "jairojaramillo@ufps.edu.co",
+      "email": "jairojaramillo@ufps.edu.co"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "name": "Fernanda Sanjuan",
       "program": "Ingenieria de Sistemas",
       "email": "fernanda@ufps.edu.co"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"

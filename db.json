@@ -2,10 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "code": "05372",
-      "name": "Carlos Rene Angarita Sanguino",
-      "program": "Ingenieria de Sistemas",
-      "email": "carlosreneas@ufps.edu.co"
+      "title": "hello"
     }
   ],
   "profile": {

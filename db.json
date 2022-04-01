@@ -6,27 +6,6 @@
       "name": "Carlos Rene Angarita Sanguino",
       "program": "Ingenieria de Sistemas",
       "email": "carlosreneas@ufps.edu.co"
-    },
-    {
-      "id": 2,
-      "code": "1152563",
-      "name": "Jairo Jaramillo",
-      "program": "Ingenieria de Sistemas",
-      "email": "jairojaramillo@ufps.edu.co"
-    },
-    {
-      "id": 3,
-      "code": "1152365",
-      "name": "Carlos Anders Ortega",
-      "program": "Ingenieria de Sistemas",
-      "email": "carlosandres@ufps.edu.co"
-    },
-    {
-      "id": 4,
-      "code": "1152369",
-      "name": "Fernanda Sanjuan",
-      "program": "Ingenieria de Sistemas",
-      "email": "fernanda@ufps.edu.co"
     }
   ],
   "profile": {
